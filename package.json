@@ -1,0 +1,15 @@
+{
+  "name": "sms_schedule_communication",
+  "version": "1.0.0",
+  "description": "Projet permettant d'automatiser l'envoi de sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dams6445",
+  "license": "ISC",
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "twilio": "^4.19.0"
+  }
+}
